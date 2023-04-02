@@ -1,4 +1,4 @@
 Hi there :wave:
 
-- I am Java Developer :fire:
-- I like to explore new framework and technologies and read articles :heart:
+- This is Kazim. I am Java Developer. I have over 11 years of experience. :fire:
+- I like to explore new framework to understand and do POC. :heart:
